@@ -1,23 +1,23 @@
-# 🏦 Banking Data - Exploratory Data Analysis (EDA)
+#  Banking Data - Exploratory Data Analysis (EDA)
 
-You can access the project files [here](https://github.com/your-username/your-repo-name).
+You can access the project files [here](https://github.com/Elavarasan-Saravanan/Banking_EDA/blob/main/EDA_Banking.ipynb).
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 
 Understanding customer behaviors and key factors influencing banking services like term deposits, helping optimize marketing campaigns and customer retention strategies.
 
 ---
 
-## 📊 Data & Tools Used
+##  Data & Tools Used
 
 - **Data Size:** ~45,000 customer records
 - **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ---
 
-## 🔍 Approach
+##  Approach
 
 - Cleaned and preprocessed customer banking data.
 - Explored demographics, job roles, and previous marketing outcomes.
@@ -26,7 +26,7 @@ Understanding customer behaviors and key factors influencing banking services li
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 - **Age**, **Job**, and **Previous Contact** strongly influence subscription likelihood.
 - Customers previously contacted and those with certain job roles (e.g., management) have higher success rates.
@@ -34,7 +34,7 @@ Understanding customer behaviors and key factors influencing banking services li
 
 ---
 
-## 📈 Impact & Outcome
+##  Impact & Outcome
 
 - Provided actionable insights for targeted marketing campaigns.
 - Helped prioritize customer groups most likely to subscribe.
